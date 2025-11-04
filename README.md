@@ -52,7 +52,6 @@ Reusable icon component using **SVG imports and enums**.
 ## 🔹 Key Skills Demonstrated
 
 - **React & TypeScript:** Hooks, custom hooks, component design, state management.  
-- **Redux:** State selection, dispatching actions, async thunks.  
 - **API Handling:** Axios, JWT token auth, centralized error handling, async validation.  
 - **UI Patterns:** Reusable components, conditional rendering, permission-based navigation.  
 - **Best Practices:** Type safety, modular code, fallback handling, code readability.  
@@ -73,5 +72,5 @@ To explore the logic:
 ## 💡 Notes
 
 - Georgian labels have been translated to English for clarity.  
-- This showcase focuses on **demonstrating your skills**, not a running application.  
+- This showcase focuses on **demonstrating the skills**, not a running application.  
 - Each file highlights **real-world patterns** used in ERP applications.  
